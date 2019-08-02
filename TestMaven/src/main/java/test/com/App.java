@@ -11,6 +11,7 @@ public class App {
 	public static void main(String[] args) {
 		System.out.print("master3");
 		System.out.print("test2");
+		System.out.print("test3");
 		try {
 			SpringApplication.run(App.class, args);
 		} catch (Exception e) {
