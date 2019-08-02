@@ -10,6 +10,7 @@ public class App {
 
 	public static void main(String[] args) {
 		System.out.print("master2");
+		System.out.print("test2");
 		try {
 			SpringApplication.run(App.class, args);
 		} catch (Exception e) {
