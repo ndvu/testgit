@@ -9,7 +9,7 @@ package test.com;
 public class App {
 
 	public static void main(String[] args) {
-		System.out.print("asd");
+		System.out.print("asdd");
 		try {
 //			SpringApplication.run(App.class, args);
 		} catch (Exception e) {
