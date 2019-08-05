@@ -9,7 +9,7 @@ import org.springframework.context.annotation.ComponentScan;
 public class App {
 
 	public static void main(String[] args) {
-		System.out.print("master38");
+		System.out.print("master39");
 		System.out.print("test2");
 		System.out.print("test3");
 		try {
