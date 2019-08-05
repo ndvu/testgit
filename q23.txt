@@ -1,0 +1,772 @@
+{
+	"error": {
+		"codice": 1,
+		"descrizione": "Risposta parziale"
+	},
+	"tid": "TEST_pqdloithroibchurkztrhoydayof",
+	"method": "getPrimaryUserData",
+	"response": {
+		"profiloWeb": "dbss_rappresentante_legale",
+		"consistenzaCliente": "Fisso",
+		"flagBillingAccount": false,
+		"tipologiaSim": "ABB",
+		"ragioneSociale": "ALIAS",
+		"marcaggioFisso": "",
+		"marcaggioMobile": "",
+		"flagAccessoTMS": false,
+		"flagAccessoMM": false,
+		"utenzaNonCompletaCasoSoloFissoNonFull": true,
+		"utenzaNonCompletaCasoCFU": false,
+		"utenzaNonCompletaCasoUpgradeAmobile": false,
+		"flagClienteConsip":false,
+		"flagClienteIntercent":false,
+		"flagClienteBusiness":false,
+		"flagFatturazioneElettronicaPrivata":true,
+		"utenti": [{
+				"nome": "mario",
+				"cognome": "motegonfia",
+				"username": "marione18",
+				"emailCertificata": "asfasdf@asdfasd.it",
+				"emailNonCertificata": "asfasdf@asdfasd.it",
+				"lastlogin": "17/01/2016 01:00",
+   				"codiceFiscaleAzienda" : "0000000217200013"
+			}, {
+				"nome": "mario",
+				"cognome": "motegonfia",
+				"username": "marione26",
+				"emailCertificata": "mailcon1soloutente@valueteam.com",
+				"emailNonCertificata": null,
+				"lastlogin": "17/01/2016 01:00",
+   				"codiceFiscaleAzienda" : "00000N85S08H501O"
+			}, {
+				"nome": "mario",
+				"cognome": "motegonfia",
+				"username": "marione27",
+				"emailCertificata": "asfasdf@asdfasd.it",
+				"emailNonCertificata": "asfasdf@asdfasd.it",
+				"lastlogin": "17/01/2016 01:00",
+   				"codiceFiscaleAzienda" : "0000000217200013"
+			}, {
+				"nome": "mario",
+				"cognome": "motegonfia",
+				"username": "marione29",
+				"emailCertificata": "asfasdf@asdfasd.it",
+				"emailNonCertificata": "asfasdf@asdfasd.it",
+				"lastlogin": "17/01/2016 01:00",
+   				"codiceFiscaleAzienda" : "00000N85S08H501O"
+			}, {
+				"nome": "mario",
+				"cognome": "motegonfia",
+				"username": "marione30",
+				"emailCertificata": "asfasdf@asdfasd.it",
+				"emailNonCertificata": "asfasdf@asdfasd.it",
+				"lastlogin": "17/01/2016 01:00",
+   				"codiceFiscaleAzienda" : "0000000217200013"
+			}, {
+				"nome": "mario",
+				"cognome": "motegonfia",
+				"username": "marione33",
+				"emailCertificata": "asfasdf@asdfasd.it",
+				"emailNonCertificata": "asfasdf@asdfasd.it",
+				"lastlogin": "17/01/2016 01:00",
+   				"codiceFiscaleAzienda" : "00000N85S08H501O"
+			}, {
+				"nome": "mario",
+				"cognome": "motegonfia",
+				"username": "marione36",
+				"emailCertificata": "asfasdf@asdfasd.it",
+				"emailNonCertificata": "asfasdf@asdfasd.it",
+				"lastlogin": "17/01/2016 01:00",
+   				"codiceFiscaleAzienda" : "0000000217200013"
+			}, {
+				"nome": "mario",
+				"cognome": "motegonfia",
+				"username": "marione37",
+				"emailCertificata": "asfasdf@asdfasd.it",
+				"emailNonCertificata": "asfasdf@asdfasd.it",
+				"lastlogin": "17/01/2016 01:00",
+   				"codiceFiscaleAzienda" : "00000N85S08H501O"
+			}, {
+				"nome": "mario",
+				"cognome": "motegonfia",
+				"username": "marione44",
+				"emailCertificata": "asfasdf2@asdfasd.it",
+				"emailNonCertificata": "asfasdf2@asdfasd.it",
+				"lastlogin": "17/01/2016 01:00",
+   				"codiceFiscaleAzienda" : "0000000217200013"
+			}, {
+				"nome": "mario",
+				"cognome": "motegonfia",
+				"username": "marione45",
+				"emailCertificata": "asfasdf2@asdfasd.it",
+				"emailNonCertificata": "asfasdf2@asdfasd.it",
+				"lastlogin": "17/01/2016 01:00",
+   				"codiceFiscaleAzienda" : "0000000217200013"
+			}, {
+				"nome": "mario",
+				"cognome": "motegonfia",
+				"username": "marione71",
+				"emailCertificata": "mario.decicco@valueteam.com",
+				"emailNonCertificata": "mario.decicco@valueteam.com",
+				"lastlogin": "17/01/2016 01:00",
+   				"codiceFiscaleAzienda" : "0000000217200013"
+			}, {
+				"nome": "mario",
+				"cognome": "motegonfia",
+				"username": "marione72",
+				"emailCertificata": "mario.decicco@valueteam.com",
+				"emailNonCertificata": "mario.decicco@valueteam.com",
+				"lastlogin": "17/01/2016 01:00",
+   				"codiceFiscaleAzienda" : "00000N85S08H501O"
+			}, {
+				"nome": "mario",
+				"cognome": "motegonfiano",
+				"username": "marione75",
+				"emailCertificata": "mario.decicco@valueteam.com",
+				"emailNonCertificata": "mario.decicco@valueteam.com",
+				"lastlogin": "17/01/2016 01:00",
+   				"codiceFiscaleAzienda" : "0000000217200013"
+			}, {
+				"nome": "mario",
+				"cognome": "anichini",
+				"username": "marione1",
+				"emailCertificata": "mario.decicco@valueteam.com",
+				"emailNonCertificata": null,
+				"lastlogin": "17/01/2016 01:00",
+   				"codiceFiscaleAzienda" : "0000000217200013"
+			}, {
+				"nome": "mario",
+				"cognome": "motegonfia",
+				"username": "marione17",
+				"emailCertificata": "mario.decicco13@valueteam.com",
+				"emailNonCertificata": "mario.decicco13@valueteam.com",
+				"lastlogin": "17/01/2016 01:00",
+   				"codiceFiscaleAzienda" : "0000000217200013"
+			}, {
+				"nome": "mario",
+				"cognome": "motegonfia",
+				"username": "marione28",
+				"emailCertificata": "asfasdf@asdfasd.it",
+				"emailNonCertificata": "asfasdf@asdfasd.it",
+				"lastlogin": "17/01/2016 01:00",
+   				"codiceFiscaleAzienda" : "0000000217200013"
+			}, {
+				"nome": "mario",
+				"cognome": "motegonfia",
+				"username": "marione32",
+				"emailCertificata": "asfasdf@asdfasd.it",
+				"emailNonCertificata": "asfasdf@asdfasd.it",
+				"lastlogin": "17/01/2016 01:00",
+   				"codiceFiscaleAzienda" : "00000N85S08H501O"
+			}, {
+				"nome": "mario",
+				"cognome": "motegonfia",
+				"username": "marione60",
+				"emailCertificata": "mario.decicco@valueteam.com",
+				"emailNonCertificata": "mario.decicco@valueteam.com",
+				"lastlogin": "17/01/2016 01:00",
+   				"codiceFiscaleAzienda" : "0000000217200013"
+			}, {
+				"nome": "mario",
+				"cognome": "motegonfia",
+				"username": "marione80",
+				"emailCertificata": "mario.decicco@valueteam.com",
+				"emailNonCertificata": "mario.decicco@valueteam.com",
+				"lastlogin": "17/01/2016 01:00",
+   				"codiceFiscaleAzienda" : "0000000217200013"
+			}, {
+				"nome": "marco",
+				"cognome": "santolamazza",
+				"username": "casoditest99_MYC",
+				"emailCertificata": "marco.santolamazza@nttdata.com",
+				"emailNonCertificata": "marco.santolamazza@nttdata.com",
+				"lastlogin": null,
+   				"codiceFiscaleAzienda" : "0000000217200013"
+			}, {
+				"nome": "gio",
+				"cognome": "vedi",
+				"username": "giovanni.verrecchia@nttdata.com",
+				"emailCertificata": "giovanni.verrecchia@nttdata.com",
+				"emailNonCertificata": null,
+				"lastlogin": null,
+   				"codiceFiscaleAzienda" : "0000000217200013"
+			}, {
+				"nome": "dfs",
+				"cognome": "asd",
+				"username": "migratoMobileXXX",
+				"emailCertificata": "giovanni.verrecchia1@nttdata.com",
+				"emailNonCertificata": null,
+				"lastlogin": null,
+   				"codiceFiscaleAzienda" : "0000000217200013"
+			}, {
+				"nome": "adfs",
+				"cognome": "asdf",
+				"username": "giovanni.verrecchia1@nttdata.com",
+				"emailCertificata": "giovanni.verrecchia1@nttdata.com",
+				"emailNonCertificata": null,
+				"lastlogin": null,
+   				"codiceFiscaleAzienda" : "0000000217200013"
+			}, {
+				"nome": "erdefgdf",
+				"cognome": "gdsfgsdf",
+				"username": "giovanni.verrecchia3@nttdata.com",
+				"emailCertificata": "giovanni.verrecchia@nttdata.com",
+				"emailNonCertificata": null,
+				"lastlogin": null,
+   				"codiceFiscaleAzienda" : "0000000217200013"
+			}, {
+				"nome": "dasfdasfd",
+				"cognome": "asdfasdf",
+				"username": "giovanni.verrecchia8@nttdata.com",
+				"emailCertificata": "giovanni.verrecchia8@nttdata.com",
+				"emailNonCertificata": null,
+				"lastlogin": null,
+   				"codiceFiscaleAzienda" : "0000000217200013"
+			}, {
+				"nome": "gio",
+				"cognome": "asdf",
+				"username": "giovanni.verrecchia11@nttdata.com",
+				"emailCertificata": "giovanni.verrecchia11@nttdata.com",
+				"emailNonCertificata": null,
+				"lastlogin": null,
+   				"codiceFiscaleAzienda" : "0000000217200013"
+			}, {
+				"nome": "mmmm",
+				"cognome": "mmmmm",
+				"username": "hp2hp2",
+				"emailCertificata": "marco.santolamazza@nttdata.com",
+				"emailNonCertificata": null,
+				"lastlogin": "17/01/2016 01:00",
+   				"codiceFiscaleAzienda" : "0000000217200013"
+			}, {
+				"nome": "mario",
+				"cognome": "rossi",
+				"username": "gaddygaddy",
+				"emailCertificata": "marco.santolamazza@nttdata.com",
+				"emailNonCertificata": null,
+				"lastlogin": null,
+   				"codiceFiscaleAzienda" : "0000000217200013"
+			}, {
+				"nome": "libero",
+				"cognome": "ceresa",
+				"username": "libero2",
+				"emailCertificata": "libero.ceresa@nttdata.com",
+				"emailNonCertificata": null,
+				"lastlogin": "17/01/2016 01:00",
+				"codiceFiscaleAzienda" : "0000000217200013"
+			}, {
+				"nome": "libero",
+				"cognome": "ceresa",
+				"username": "libero3",
+				"emailCertificata": "libero.ceresa@nttdata.com",
+				"emailNonCertificata": null,
+				"lastlogin": "17/01/2016 01:00",
+   				"codiceFiscaleAzienda" : "00000N85S08H501O"
+			}, {
+				"nome": "Simone",
+				"cognome": "Cellini",
+				"username": "simone_c_2",
+				"emailCertificata": "simone.cellini@nttdata.com",
+				"emailNonCertificata": null,
+				"lastlogin": null,
+   				"codiceFiscaleAzienda" : "0000000217200013"
+			}, {
+				"nome": "mario",
+				"cognome": "rossi",
+				"username": "marco7.41",
+				"emailCertificata": "marco.santolamazza@nttdata.com",
+				"emailNonCertificata": null,
+				"lastlogin": "23/11/2015 11:50",
+   				"codiceFiscaleAzienda" : "0000000217200013"
+			}, {
+				"nome": "mario",
+				"cognome": "rossi",
+				"username": "marco121",
+				"emailCertificata": "marco.santolamazza@nttdata.com",
+				"emailNonCertificata": null,
+				"lastlogin": "23/11/2015 12:39",
+   				"codiceFiscaleAzienda" : "0000000217200013"
+			}, {
+				"nome": "DarioRegDue",
+				"cognome": "GallettiRegDue",
+				"username": "DarioRegDue",
+				"emailCertificata": "dario.galletti@nttdata.com",
+				"emailNonCertificata": null,
+				"lastlogin": "29/07/2016 11:01",
+   				"codiceFiscaleAzienda" : "0000000217200013"
+			}, {
+				"nome": "Mario",
+				"cognome": "Rossi",
+				"username": "Andrea.Epifano@nttdata.com",
+				"emailCertificata": "Andrea.Epifano@nttdata.com",
+				"emailNonCertificata": null,
+				"lastlogin": null,
+   				"codiceFiscaleAzienda" : "00000N85S08H501O"
+			}, {
+				"nome": "Mario",
+				"cognome": "Rossi",
+				"username": "Andrea.Epifano@nttdata2.it",
+				"emailCertificata": "Andrea.Epifano@nttdata.com",
+				"emailNonCertificata": null,
+				"lastlogin": null,
+   				"codiceFiscaleAzienda" : "0000000217200013"
+			}, {
+				"nome": "Mario",
+				"cognome": "Rossi",
+				"username": "Andrea.Epifano@nttdata3.com",
+				"emailCertificata": "Andrea.Epifano@nttdata.com",
+				"emailNonCertificata": null,
+				"lastlogin": null,
+   				"codiceFiscaleAzienda" : "0000000217200013"
+			}, {
+				"nome": "Mario",
+				"cognome": "Rossi",
+				"username": "Andrea.Epifano@nttdata5.com",
+				"emailCertificata": "Andrea.Epifano@nttdata.com",
+				"emailNonCertificata": null,
+				"lastlogin": null,
+   				"codiceFiscaleAzienda" : "0000000217200013"
+			}, {
+				"nome": "MARIO ",
+				"cognome": "ROSSI",
+				"username": "Andrea.Epifano@nttdata6.com",
+				"emailCertificata": "Andrea.Epifano@nttdata.com",
+				"emailNonCertificata": null,
+				"lastlogin": null,
+   				"codiceFiscaleAzienda" : "0000000217200013"
+			}, {
+				"nome": "Mario",
+				"cognome": "Rossi",
+				"username": "Andrea.Epifano@nttdata7.com",
+				"emailCertificata": "Andrea.Epifano@nttdata.com",
+				"emailNonCertificata": null,
+				"lastlogin": null,
+   				"codiceFiscaleAzienda" : "0000000217200013"
+			}, {
+				"nome": "Mario",
+				"cognome": "Rossi",
+				"username": "Andrea.Epifano@nttdata87345.com",
+				"emailCertificata": "Andrea.Epifano@nttdata.com",
+				"emailNonCertificata": null,
+				"lastlogin": null,
+   				"codiceFiscaleAzienda" : "0000000217200013"
+			}, {
+				"nome": "Mario",
+				"cognome": "Rossi",
+				"username": "Andrea.Epifano@nttdataasdasda.com",
+				"emailCertificata": "Andrea.Epifano@nttdata.com",
+				"emailNonCertificata": null,
+				"lastlogin": null,
+   				"codiceFiscaleAzienda" : "0000000217200013"
+			}, {
+				"nome": "Mario",
+				"cognome": "Rossi",
+				"username": "Andrea.Epifano@nttdata934.com",
+				"emailCertificata": "Andrea.Epifano@nttdata.com",
+				"emailNonCertificata": null,
+				"lastlogin": null,
+   				"codiceFiscaleAzienda" : "0000000217200013"
+			}, {
+				"nome": "Mario",
+				"cognome": "Rossi",
+				"username": "Andrea.Epifano@nttdata56456.com",
+				"emailCertificata": "Andrea.Epifano@nttdata.com",
+				"emailNonCertificata": null,
+				"lastlogin": null,
+   				"codiceFiscaleAzienda" : "0000000217200013"
+			}, {
+				"nome": "Mario",
+				"cognome": "Rossi",
+				"username": "Andrea.Epifano@nttdata32r3d23.com",
+				"emailCertificata": "Andrea.Epifano@nttdata.com",
+				"emailNonCertificata": null,
+				"lastlogin": null,
+   				"codiceFiscaleAzienda" : "00000N85S08H501O"
+			}, {
+				"nome": "Mario",
+				"cognome": "Rossi",
+				"username": "Andrea.Epifano@nttdatawqqf.com",
+				"emailCertificata": "Andrea.Epifano@nttdata.com",
+				"emailNonCertificata": null,
+				"lastlogin": null,
+   				"codiceFiscaleAzienda" : "0000000217200013"
+			}, {
+				"nome": "Mario",
+				"cognome": "Rossicci",
+				"username": "Andrea.Epifano@nttdataqwdqwdq.com",
+				"emailCertificata": "Andrea.Epifano@nttdata.com",
+				"emailNonCertificata": null,
+				"lastlogin": null,
+   				"codiceFiscaleAzienda" : "00000N85S08H501O"
+			}, {
+				"nome": "Mariottide",
+				"cognome": "Gianciliegio",
+				"username": "Andrea.Epifano@nttdataqwdqwd.com",
+				"emailCertificata": "Andrea.Epifano@nttdata.com",
+				"emailNonCertificata": null,
+				"lastlogin": null,
+   				"codiceFiscaleAzienda" : "0000000217200013"
+			}, {
+				"nome": "Mario",
+				"cognome": "Rossi",
+				"username": "Andrea.Epifano@nttdatad1r13r313r.com",
+				"emailCertificata": "Andrea.Epifano@nttdata.com",
+				"emailNonCertificata": null,
+				"lastlogin": null,
+   				"codiceFiscaleAzienda" : "00000N85S08H501O"
+			}, {
+				"nome": "Gabriele",
+				"cognome": "Bastianetto",
+				"username": "gabriele.bastianetto",
+				"emailCertificata": "gabriele.bastianetto@nttdata.com",
+				"emailNonCertificata": null,
+				"lastlogin": null,
+   				"codiceFiscaleAzienda" : "0000000217200013"
+			}, {
+				"nome": "Mario",
+				"cognome": "Rossicci",
+				"username": "Andrea.Epifano@nttdataiud209iuioa.com",
+				"emailCertificata": "Andrea.Epifano@nttdata.com",
+				"emailNonCertificata": null,
+				"lastlogin": null,
+   				"codiceFiscaleAzienda" : "0000000217200013"
+			}, {
+				"nome": "Andrea",
+				"cognome": "Rossi",
+				"username": "Andrea.Epifano@nttdata23rf2r3.com",
+				"emailCertificata": "Andrea.Epifano@nttdata.com",
+				"emailNonCertificata": null,
+				"lastlogin": null,
+   				"codiceFiscaleAzienda" : "00000N85S08H501O"
+			}, {
+				"nome": "Andrea",
+				"cognome": "Rossi",
+				"username": "Andrea.Epifano@nttdatae32e22r.com",
+				"emailCertificata": "Andrea.Epifano@nttdata.com",
+				"emailNonCertificata": null,
+				"lastlogin": null,
+   				"codiceFiscaleAzienda" : "0000000217200013"
+			}, {
+				"nome": "Andrea",
+				"cognome": "Bianchi",
+				"username": "Andrea.Epifano@nttdataqwdqw.com",
+				"emailCertificata": "Andrea.Epifano@nttdata.com",
+				"emailNonCertificata": null,
+				"lastlogin": null,
+   				"codiceFiscaleAzienda" : "0000000217200013"
+			}, {
+				"nome": "Andrea",
+				"cognome": "Epifano",
+				"username": "Andrea.Epifano@nttdatawdqwd.com",
+				"emailCertificata": "Andrea.Epifano@nttdata.com",
+				"emailNonCertificata": null,
+				"lastlogin": null,
+   				"codiceFiscaleAzienda" : "0000000217200013"
+			}, {
+				"nome": "Andrea",
+				"cognome": "Bianchi",
+				"username": "Andrea.Epifano@nttdataqqwedqw.com",
+				"emailCertificata": "Andrea.Epifano@nttdata.com",
+				"emailNonCertificata": null,
+				"lastlogin": null,
+   				"codiceFiscaleAzienda" : "00000N85S08H501O"
+			}, {
+				"nome": "Andrea",
+				"cognome": "Bianchi",
+				"username": "Andrea.Epifano@nttdqdqdata.com",
+				"emailCertificata": "Andrea.Epifano@nttdata.com",
+				"emailNonCertificata": null,
+				"lastlogin": null,
+   				"codiceFiscaleAzienda" : "0000000217200013"
+			}, {
+				"nome": "Andrea",
+				"cognome": "Bianchi",
+				"username": "Andrea.Epifano@nttdataqewerqwd.com",
+				"emailCertificata": "Andrea.Epifano@nttdata.com",
+				"emailNonCertificata": null,
+				"lastlogin": null,
+   				"codiceFiscaleAzienda" : "0000000217200013"
+			}, {
+				"nome": "Andrea",
+				"cognome": "Bianchi",
+				"username": "Andrea.Epifano@ntqwdtdata.com",
+				"emailCertificata": "Andrea.Epifano@nttdata.com",
+				"emailNonCertificata": null,
+				"lastlogin": null,
+   				"codiceFiscaleAzienda" : "0000000217200013"
+			}, {
+				"nome": "Andrea",
+				"cognome": "Epifano",
+				"username": "Andrea.Epifano@nttdataqweqweq.com",
+				"emailCertificata": "Andrea.Epifano@nttdata.com",
+				"emailNonCertificata": null,
+				"lastlogin": null,
+   				"codiceFiscaleAzienda" : "0000000217200013"
+			}, {
+				"nome": "Andrea",
+				"cognome": "Epifano",
+				"username": "andrea.epifano@nttdata.comwdqwd",
+				"emailCertificata": "Andrea.Epifano@nttdata.com",
+				"emailNonCertificata": null,
+				"lastlogin": null,
+   				"codiceFiscaleAzienda" : "0000000217200013"
+			}, {
+				"nome": "Andrea",
+				"cognome": "Epifano",
+				"username": "Andrea.Epifano@nqwdqwdq.com",
+				"emailCertificata": "Andrea.Epifano@nttdata.com",
+				"emailNonCertificata": null,
+				"lastlogin": null,
+   				"codiceFiscaleAzienda" : "0000000217200013"
+			}, {
+				"nome": "Andrea",
+				"cognome": "Epifano",
+				"username": "Andrea.Epifano@nttdaqwqwdqw",
+				"emailCertificata": "Andrea.Epifano@nttdata.com",
+				"emailNonCertificata": null,
+				"lastlogin": null,
+   				"codiceFiscaleAzienda" : "00000N85S08H501O"
+			}, {
+				"nome": "Andrea",
+				"cognome": "Epifano",
+				"username": "Andrea.Epifano@naqdqwq",
+				"emailCertificata": "Andrea.Epifano@nttdata.com",
+				"emailNonCertificata": null,
+				"lastlogin": null,
+   				"codiceFiscaleAzienda" : "0000000217200013"
+			}, {
+				"nome": "Mario",
+				"cognome": "Rossi",
+				"username": "gabriele.bastianetto_1@nttdata.com",
+				"emailCertificata": "gabriele.bastianetto@nttdata.com",
+				"emailNonCertificata": null,
+				"lastlogin": null,
+   				"codiceFiscaleAzienda" : "0000000217200013"
+			}, {
+				"nome": "Andrea",
+				"cognome": "Epifano",
+				"username": "andrea.epifano@nttdatadaswq.com",
+				"emailCertificata": "andrea.epifano@nttdata.com",
+				"emailNonCertificata": null,
+				"lastlogin": null,
+   				"codiceFiscaleAzienda" : "0000000217200013"
+			}, {
+				"nome": "Andrea",
+				"cognome": "Bianchi",
+				"username": "andrea.epifano2e2@nttdata.com",
+				"emailCertificata": "andrea.epifano@nttdata.com",
+				"emailNonCertificata": null,
+				"lastlogin": null,
+   				"codiceFiscaleAzienda" : "0000000217200013"
+			}, {
+				"nome": "Simone",
+				"cognome": "Cellini",
+				"username": "simone.cellini@nttdata.com_2",
+				"emailCertificata": "simone.cellini@nttdata.com",
+				"emailNonCertificata": null,
+				"lastlogin": null,
+   				"codiceFiscaleAzienda" : "00000N85S08H501O"
+			}, {
+				"nome": "Simone",
+				"cognome": "Cellini",
+				"username": "simone.cellini@nttdata.com_1",
+				"emailCertificata": "simone.cellini@nttdata.com",
+				"emailNonCertificata": null,
+				"lastlogin": null,
+   				"codiceFiscaleAzienda" : "0000000217200013"
+			}, {
+				"nome": "Simone",
+				"cognome": "Cellini",
+				"username": "simone.cellini@nttdata.com_6",
+				"emailCertificata": "simone.cellini@nttdata.com",
+				"emailNonCertificata": null,
+				"lastlogin": null,
+   				"codiceFiscaleAzienda" : "0000000217200013"
+			}, {
+				"nome": "SSSSSSSSSSSS",
+				"cognome": "SSSSSSSSSSSSS",
+				"username": "simone.cellini@nttdata.com_001",
+				"emailCertificata": "simone.cellini@nttdata.com",
+				"emailNonCertificata": null,
+				"lastlogin": null,
+   				"codiceFiscaleAzienda" : "0000000217200013"
+			}, {
+				"nome": "SSSSSSSSSSSS",
+				"cognome": "SSSSSSSSSSSSS",
+				"username": "simone.cellini@nttdata.com_002",
+				"emailCertificata": "simone.cellini@nttdata.com",
+				"emailNonCertificata": null,
+				"lastlogin": null,
+   				"codiceFiscaleAzienda" : "0000000217200013"
+			}, {
+				"nome": "SSSSSSSSSSSS",
+				"cognome": "SSSSSSSSSSSSS",
+				"username": "simone.cellini@nttdata.com_003",
+				"emailCertificata": "simone.cellini@nttdata.com",
+				"emailNonCertificata": null,
+				"lastlogin": null,
+   				"codiceFiscaleAzienda" : "0000000217200013"
+			}, {
+				"nome": "ssss",
+				"cognome": "ssss",
+				"username": "simone.cellini@nttdata.com_007",
+				"emailCertificata": "simone.cellini@nttdata.com",
+				"emailNonCertificata": null,
+				"lastlogin": "03/08/2016 11:23",
+   				"codiceFiscaleAzienda" : "0000000217200013"
+			}, {
+				"nome": "SSSS",
+				"cognome": "SSSS",
+				"username": "simone.cellini@nttdata.com_3",
+				"emailCertificata": "simone.cellini@nttdata.com",
+				"emailNonCertificata": null,
+				"lastlogin": null,
+   				"codiceFiscaleAzienda" : "00000N85S08H501O"
+			}, {
+				"nome": "SSSSSSSSSSSS",
+				"cognome": "SSSSSSSSSSS",
+				"username": "simone.cellini@nttdata.com_4",
+				"emailCertificata": "simone.cellini@nttdata.com",
+				"emailNonCertificata": null,
+				"lastlogin": null,
+   				"codiceFiscaleAzienda" : "0000000217200013"
+			}, {
+				"nome": "SSSSSSSSSSSS",
+				"cognome": "SSSSSSSSSSS",
+				"username": "simone.cellini@nttdata.com_5",
+				"emailCertificata": "simone.cellini@nttdata.com",
+				"emailNonCertificata": null,
+				"lastlogin": null,
+   				"codiceFiscaleAzienda" : "0000000217200013"
+			}, {
+				"nome": "SSSSSSSSSSSS",
+				"cognome": "SSSSSSSSSSS",
+				"username": "simone.cellini@nttdata.com_7",
+				"emailCertificata": "simone.cellini@nttdata.com",
+				"emailNonCertificata": null,
+				"lastlogin": null,
+   				"codiceFiscaleAzienda" : "0000000217200013"
+			}, {
+				"nome": "SSSSS",
+				"cognome": "SSSSS",
+				"username": "simone.cellini@nttdata.com_8",
+				"emailCertificata": "simone.cellini@nttdata.com",
+				"emailNonCertificata": null,
+				"lastlogin": null,
+   				"codiceFiscaleAzienda" : "0000000217200013"
+			}, {
+				"nome": "Simone",
+				"cognome": "Cellini",
+				"username": "simone.cellini@nttdata.com_9",
+				"emailCertificata": "simone.cellini@nttdata.com",
+				"emailNonCertificata": null,
+				"lastlogin": null,
+   				"codiceFiscaleAzienda" : "0000000217200013"
+			}, {
+				"nome": "mario",
+				"cognome": "rossi",
+				"username": "simoneguarino",
+				"emailCertificata": "simone.guarino@nttdata.com",
+				"emailNonCertificata": null,
+				"lastlogin": null,
+   				"codiceFiscaleAzienda" : "0000000217200013"
+			}, {
+				"nome": "mario",
+				"cognome": "rossi",
+				"username": "simoneguarino1",
+				"emailCertificata": "simone.guarino@nttdata.com",
+				"emailNonCertificata": null,
+				"lastlogin": null,
+   				"codiceFiscaleAzienda" : "0000000217200013"
+			}, {
+				"nome": "mario",
+				"cognome": "rossi",
+				"username": "simoneguarino2",
+				"emailCertificata": "simone.guarino@nttdata.com",
+				"emailNonCertificata": null,
+				"lastlogin": null,
+   				"codiceFiscaleAzienda" : "00000N85S08H501O"
+			}, {
+				"nome": "mario",
+				"cognome": "rossi",
+				"username": "simoneguarino3",
+				"emailCertificata": "simone.guarino@nttdata.com",
+				"emailNonCertificata": null,
+				"lastlogin": null,
+   				"codiceFiscaleAzienda" : "0000000217200013"
+			}, {
+				"nome": "mario",
+				"cognome": "rossi",
+				"username": "simoneguarino4",
+				"emailCertificata": "simone.guarino@nttdata.com",
+				"emailNonCertificata": null,
+				"lastlogin": null,
+   				"codiceFiscaleAzienda" : "0000000217200013"
+			}, {
+				"nome": "mario",
+				"cognome": "rossi",
+				"username": "simoneguarino5",
+				"emailCertificata": "simone.guarino@nttdata.com",
+				"emailNonCertificata": null,
+				"lastlogin": null,
+   				"codiceFiscaleAzienda" : "0000000217200013"
+			}, {
+				"nome": "mario",
+				"cognome": "rossi",
+				"username": "simoneguarino6",
+				"emailCertificata": "simone.guarino@nttdata.com",
+				"emailNonCertificata": null,
+				"lastlogin": null,
+   				"codiceFiscaleAzienda" : "0000000217200013"
+			}, {
+				"nome": "mario",
+				"cognome": "rossi",
+				"username": "simoneguarino7",
+				"emailCertificata": "simone.guarino@nttdata.com",
+				"emailNonCertificata": null,
+				"lastlogin": null,
+   				"codiceFiscaleAzienda" : "0000000217200013"
+			}, {
+				"nome": "mario",
+				"cognome": "rossi",
+				"username": "simoneguarino8",
+				"emailCertificata": "simone.guarino@nttdata.com",
+				"emailNonCertificata": null,
+				"lastlogin": null,
+   				"codiceFiscaleAzienda" : "0000000217200013"
+			}, {
+				"nome": "mario",
+				"cognome": "rossi",
+				"username": "simoneguarino9",
+				"emailCertificata": "simone.guarino@nttdata.com",
+				"emailNonCertificata": null,
+				"lastlogin": null,
+   				"codiceFiscaleAzienda" : "00000N85S08H501O"
+			}, {
+				"nome": "mario",
+				"cognome": "rossi",
+				"username": "simone.guarino@nttdata.com",
+				"emailCertificata": "simone.guarino@nttdata.com",
+				"emailNonCertificata": null,
+				"lastlogin": null,
+   				"codiceFiscaleAzienda" : "0000000217200013"
+			}, {
+				"nome": "mario",
+				"cognome": "rossi",
+				"username": "aaa@aaa.it",
+				"emailCertificata": "aaa@aaa.it",
+				"emailNonCertificata": null,
+				"lastlogin": null,
+   				"codiceFiscaleAzienda" : "00000N85S08H501O"
+			}, {
+				"nome": "nuovonome",
+				"cognome": "nuovocognome",
+				"username": "simoneguarino10",
+				"emailCertificata": "silvia.lippi@nttdata.com",
+				"emailNonCertificata": "utente.fittizio@fittizio.it",
+				"lastlogin": "17/02/2017 09:00",
+   				"codiceFiscaleAzienda" : "00000N85S08H501O"
+			}
+		]
+	}
+}
