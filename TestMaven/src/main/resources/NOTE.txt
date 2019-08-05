@@ -1,0 +1,9 @@
+- simpleUpload function when upload file
+
+
+learned:
+- jsp, jstl
+
+
+tolearn:
+- classloader
